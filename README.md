@@ -15,7 +15,7 @@ end-to-end, from spatial backends to native desktop apps.
 | **[SAR Datums](https://github.com/dvhahn/sar-datums)** | Maritime search & rescue drift-prediction tool for NZ Police SAR | Python · Flask · PostGIS · MapLibre |
 | **[Flour &amp; Flames](https://github.com/dvhahn/recipe-portal)** | Recipe web app with a custom Health Star Rating engine | Python · Flask · SQLAlchemy |
 | **[ScriptPad](https://github.com/dvhahn/ScriptPad)** | Native macOS markdown editor with a custom text engine | Swift · SwiftUI |
-| **[Censor](https://github.com/dvhahn/censor)** | Chrome extension to blur sensitive info before screen sharing | JavaScript · Manifest V3 |
+| **[Censor](https://github.com/dvhahn/censor)** | Chrome extension to blur sensitive info before screen sharing — [live on the Chrome Web Store](https://chromewebstore.google.com/detail/censor-blur-sensitive-inf/dcpkpnfgkpapfhdpgmlggpmagmmhomde) | JavaScript · Manifest V3 |
 
 ### Find me
 
